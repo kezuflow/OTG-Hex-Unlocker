@@ -1,12 +1,12 @@
 **OTG HexUnlocker**
 
-OTG HexUnlocker is a mobile macro app designed specifically for the game Off The Grid. It simplifies and automates hex-based unlocking processes via USB OTG, providing a fast and efficient way to enhance your gameplay experience.
+OTG HexUnlocker is a macro app designed specifically for the game Off The Grid. It simplifies and automates hex-based unlocking processes providing a fast and efficient way to decode all HEXes.
 
 **Features**
 
 Easy-to-use Interface: Simple setup and operation.
 
-Hex-based Unlocking: Automates complex unlocking processes within the game.
+Hex-based Category Unlocking: Automates complex unlocking processes within the game.
 
 Lightweight & Efficient: Designed for smooth performance with minimal resource consumption.
 
